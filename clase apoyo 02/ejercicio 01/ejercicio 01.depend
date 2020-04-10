@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586019574 source:c:\users\chilloutket\desktop\laboratorio 1- programacion 1\clase apoyo 02\ejercicio 01\repaso2.c
+	<stdio.h>
+	<stdlib.h>
+	"repaso2.h"
+
+1586016854 c:\users\chilloutket\desktop\laboratorio 1- programacion 1\clase apoyo 02\ejercicio 01\repaso2.h
+
+1586019574 source:c:\users\chilloutket\desktop\laboratorio 1- programacion 1\clase apoyo 02\ejercicio 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"repaso2.h"
+
