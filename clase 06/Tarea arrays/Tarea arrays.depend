@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586549889 source:c:\users\chilloutket\desktop\laboratorio-1-programacion-1-2020\clase 06\tarea arrays\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1586548510 c:\users\chilloutket\desktop\laboratorio-1-programacion-1-2020\clase 06\tarea arrays\funciones.h
+
+1586550753 source:c:\users\chilloutket\desktop\laboratorio-1-programacion-1-2020\clase 06\tarea arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
